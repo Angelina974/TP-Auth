@@ -1,0 +1,20 @@
+[
+  {
+    "id": 777,
+    "pseudo": "admin",
+    "isAdmin": true,
+    "password": "adminpass"
+  },
+  {
+    "id": 123,
+    "pseudo": "bob",
+    "isAdmin": false,
+    "password": "bobpass"
+  },
+  {
+    "id": 321,
+    "pseudo": "alice",
+    "isAdmin": false,
+    "password": "alicepass"
+  }
+]
