@@ -6,7 +6,7 @@ Ensuite lancer le serveur avec la commande : node index.js
 
 Le serveur écoute sur le port 3000
 
-##Pour se logger : 
+## Pour se logger : 
 
 **POST /login**
 
@@ -29,7 +29,7 @@ Exemple :
 }
 ```
 
-##Pour récupérer les posts : 
+## Pour récupérer les posts : 
 
 **GET /post**
 
