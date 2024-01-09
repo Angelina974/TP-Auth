@@ -1,0 +1,17 @@
+[
+  {
+    "id": 456,
+    "authorId": 123,
+    "content": "Contenu du post de Bob"
+  },
+  {
+    "id": 654,
+    "authorId": 321,
+    "content": "Contenu du post d'Alice"
+  },
+  {
+    "id": 555,
+    "authorId": 777,
+    "content": "Contenu du post de l'Admin"
+  }
+]
