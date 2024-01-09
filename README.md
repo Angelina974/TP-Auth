@@ -6,9 +6,9 @@ Ensuite lancer le serveur avec la commande : node index.js
 
 Le serveur écoute sur le port 3000
 
-Pour se logger : 
+##Pour se logger : 
 
-POST /login
+**POST /login**
 
 Passer le pseudo et le mot de passe dans le body de la requête 
 
@@ -29,9 +29,9 @@ Exemple :
 }
 ```
 
-Pour récupérer les posts : 
+##Pour récupérer les posts : 
 
-GET /post
+**GET /post**
 
 Passer le token dans le header d'authorisation de la requête
 
